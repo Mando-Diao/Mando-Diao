@@ -1,6 +1,6 @@
 <div align="right"> 
   
-&nbsp;&nbsp;&nbsp; $\color{#872b12}{«}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.°˖}$ &nbsp;&nbsp;&nbsp; $\color{#a6513a}{𝐈𝐧𝐟𝐨}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{˖°.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{.}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{𐚁}$ &nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{⊹}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{⊱}$ &nbsp;&nbsp;&nbsp; $\color{#a6513a}{𝐈𝐧𝐟𝐨}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{⊰}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{⊹}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{─}$ &nbsp;&nbsp;&nbsp; $\color{#872b12}{𐚁}$ &nbsp;&nbsp;&nbsp; 
 
 $\color{#a6623a}{𝐈𝐧𝐭𝐞𝐫𝐞𝐫𝐬𝐭𝐬}$ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; $\color{#e09d5e}{── .𖥔}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\color{#e09d5e}{RDR⠀⠀MadeinAbyss⠀⠀horses⠀⠀TheHollow}$ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
